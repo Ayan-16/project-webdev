@@ -1,0 +1,35 @@
+#bottom-hyperlink{
+color: white;
+}
+.footer {
+  position:bottom;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+text-align: center;
+font:arial;}
+
+.fa-linkedin {  
+  background: #3B5998;  
+  color: white;  
+}  
+.fa {  
+  padding: 10px;  
+text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 40px;  
+}  
+#first-sep{
+border-top:1px solid black;
+}
+#first-sep1{
+border-top: 1px solid black;
+}
+#header1{
+	background-color:rgb(230, 230, 231);
+	padding:20px;
+}
+.mail-icon{color:white;}
